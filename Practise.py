@@ -22,4 +22,8 @@
 # data = dict(zip(keys, values))
 # print(data)
 
+def returnSomething():
+	print("Something")
 
+
+returnSomething()
